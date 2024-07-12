@@ -1,5 +1,5 @@
 # Mock Netflix Retool Dashboard
-![alt text](https://github.com/wangamulaudzi/mock-netflix-retool-dashboard/blob/main/mock-netflix.png?raw=true)
+![alt text](https://github.com/wangamulaudzi/mock-netflix-retool-dashboard/blob/main/mock-netflix2.png)
 
 This repo links to a small exploration of Netflix movie and TV series data. This project is related to another project in which I designed a dashboard for proprietary carbon emissions' for Barrows Global.
 
